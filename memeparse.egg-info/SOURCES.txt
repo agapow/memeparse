@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+memeparse/__init__.py
+memeparse.egg-info/PKG-INFO
+memeparse.egg-info/SOURCES.txt
+memeparse.egg-info/dependency_links.txt
+memeparse.egg-info/entry_points.txt
+memeparse.egg-info/not-zip-safe
+memeparse.egg-info/top_level.txt
